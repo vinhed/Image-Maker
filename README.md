@@ -28,7 +28,8 @@ ImageMaker.exe [Image Name] [Images in width] [Images in height] [Output width]
 # Setup - .PY
 
 1. Install Python 3.6
-2. Use "python ImageMaker.exe -s" for setup
+2. Download ImageMaker.py from the project
+3. Use "python ImageMaker.exe -s" for setup
 
 Syntax
 
