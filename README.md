@@ -26,7 +26,7 @@ The EXE file is converted from the PY file using auto-py-to-exe. auto-py-to-exe 
 
 # Syntax
 
-python ImageMaker.exe [Image Name] [Images in width] [Images in height] [Output width]
+(python) ImageMaker.exe [Image Name] [Images in width] [Images in height] [Output width]
 
 [Image Name] - Path to primary image
 
