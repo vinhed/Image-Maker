@@ -12,16 +12,16 @@ The EXE file is converted from the PY file using auto-py-to-exe. auto-py-to-exe 
 
 1. Download the EXE file from https://mega.nz/#!4NUE1aiJ!LiL9r2uNxJJg6NGdYbs64AbxMkhHND819NgxmP87FRE
 2. Place ImageMaker.exe and open CMD in that folder
-3. Place your small images in Collection
-4. Type "ImageMaker.exe -s" for setup
+3. Type "ImageMaker.exe -s" for setup
+4. Place your small images in Collection
 
 
 # Setup - .PY (Hard)
 
 1. Download Python 3.6 and install PILLOW
 2. Download ImageMaker.py from the project
-3. Place your small images in Collection
-4. Use "python ImageMaker.exe -s" for setup
+3. Type "python ImageMaker.exe -s" for setup
+4. Place your small images in Collection
 
 
 # Syntax
