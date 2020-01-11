@@ -1,7 +1,7 @@
 # Image-Maker
 A Python based program that turns images into an image
 
-!!! This is not the best optimized code for this but it works !!!
+!!! This is not the best code for this but it works !!!
 
 
 # Setup - .EXE
