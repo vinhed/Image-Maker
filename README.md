@@ -16,19 +16,6 @@ The EXE file is converted from the PY file using auto-py-to-exe. auto-py-to-exe 
 4. Type "ImageMaker.exe -s" for setup
 
 
-Syntax
-
-ImageMaker.exe [Image Name] [Images in width] [Images in height] [Output width]
-
-[Image Name] - Path to primary image
-
-[Images in width] - Small images in width
-
-[Images in height] - Small images in height
-
-[Output width] - Width of output image
-
-
 # Setup - .PY
 
 1. Install Python 3.6
@@ -36,7 +23,8 @@ ImageMaker.exe [Image Name] [Images in width] [Images in height] [Output width]
 3. Place your small images in Collection
 4. Use "python ImageMaker.exe -s" for setup
 
-Syntax
+
+# Syntax
 
 python ImageMaker.exe [Image Name] [Images in width] [Images in height] [Output width]
 
