@@ -35,3 +35,5 @@ python ImageMaker.exe [Image Name] [Images in width] [Images in height] [Output 
 [Images in height] - Small images in height
 
 [Output width] - Width of output image
+
+Example: "ImageMaker.exe img.jpg 200 200 8000"
