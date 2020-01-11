@@ -20,7 +20,7 @@ Syntax
 
 ImageMaker.exe [Image Name] [Images in width] [Images in height] [Output width]
 
-[Image Name] - Path of primary image
+[Image Name] - Path to primary image
 
 [Images in width] - Small images in width
 
@@ -40,7 +40,7 @@ Syntax
 
 python ImageMaker.exe [Image Name] [Images in width] [Images in height] [Output width]
 
-[Image Name] - Path of primary image
+[Image Name] - Path to primary image
 
 [Images in width] - Small images in width
 
