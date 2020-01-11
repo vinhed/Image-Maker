@@ -3,8 +3,11 @@ A Python based program that turns images into an image
 
 # Usage
 About
+
 Setup - .EXE
+
 VirusTotal Scan: https://www.virustotal.com/gui/file/a3c8182fd163397d3b58fb1eafae388ef7bfe1c1121c8e9d4f3ab6a9bfb6fe41/detection
+
 The EXE file is converted from the PY file using auto-py-to-exe. auto-py-to-exe packages all imported libraries which is why the file is over 200 MB and can therfore not be uploaded to GitHub.
 
 1. Download the EXE file from https://mega.nz/#!4NUE1aiJ!LiL9r2uNxJJg6NGdYbs64AbxMkhHND819NgxmP87FRE
