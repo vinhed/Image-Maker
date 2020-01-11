@@ -11,7 +11,7 @@ Syntax
 
 ImageMaker.exe [Image Name] [Images in width] [Images in height] [Output width]
 
-Image Name          - Name of primary image
-Image in width      - Small images in width
-Image in height     - Small images in height
-Output width        - Width of output image
+Image Name - Name of primary image
+Image in width - Small images in width
+Image in height - Small images in height
+Output width - Width of output image
