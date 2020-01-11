@@ -4,7 +4,7 @@ A Python based program that turns images into an image
 !!! This is not the best code for this but it works !!!
 
 
-# Setup - .EXE
+# Setup - .EXE (Easy)
 
 VirusTotal Scan: https://www.virustotal.com/gui/file/a3c8182fd163397d3b58fb1eafae388ef7bfe1c1121c8e9d4f3ab6a9bfb6fe41/detection
 
@@ -16,9 +16,9 @@ The EXE file is converted from the PY file using auto-py-to-exe. auto-py-to-exe 
 4. Type "ImageMaker.exe -s" for setup
 
 
-# Setup - .PY
+# Setup - .PY (Hard)
 
-1. Install Python 3.6
+1. Download Python 3.6 and install PILLOW
 2. Download ImageMaker.py from the project
 3. Place your small images in Collection
 4. Use "python ImageMaker.exe -s" for setup
